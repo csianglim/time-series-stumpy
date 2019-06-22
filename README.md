@@ -7,5 +7,5 @@ This notebook contains examples for pulling time series data from Google Trends 
 
 ### References:
 1. [Analyzing Google Trends with Matrix Profile](https://www.naut.ca/blog/2019/04/20/google-trends-and-matrix-profile/)
-2. [Matrix Profile Homepage - Great tutorials here!](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html)
+2. [Matrix Profile Homepage: Great tutorials here!](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html)
 3. [STUMPY GitHub Page](https://github.com/TDAmeritrade/stumpy)
